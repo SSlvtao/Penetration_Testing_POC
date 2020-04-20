@@ -161,7 +161,8 @@
 - [Linux提权辅助检测Perl脚本](https://github.com/jondonas/linux-exploit-suggester-2)|[Linux提权辅助检测bash脚本](https://github.com/mzet-/linux-exploit-suggester)
 - [CVE-2020-0796 - Windows SMBv3 LPE exploit #SMBGhost](https://github.com/danigargu/CVE-2020-0796)
 - [getAV---windows杀软进程对比工具单文件版](./tools/getAV/)
-- [【提权工具】Windows 7 to Windows 10 / Server 2019](https://github.com/CCob/SweetPotato)|[搭配CS的修改版可上线system权限的session](https://github.com/lengjibo/RedTeamTools/tree/master/windows/SweetPotato)
+- [【Windows提权工具】Windows 7 to Windows 10 / Server 2019](https://github.com/CCob/SweetPotato)|[搭配CS的修改版可上线system权限的session](https://github.com/lengjibo/RedTeamTools/tree/master/windows/SweetPotato)
+- [【Windows提权工具】SweetPotato修改版，用于webshell下执行命令](https://github.com/uknowsec/SweetPotato)|[本地编译好的版本](./tools/SweetPotato.zip)|[点击下载或右键另存为](https://raw.githubusercontent.com/Mr-xn/Penetration_Testing_POC/master/tools/SweetPotato.zip)|[SweetPotato_webshell下执行命令版.pdf](./books/SweetPotato_webshell下执行命令版.pdf)
 
 ## <span id="head6"> PC</span>
 
@@ -188,6 +189,7 @@
 - [shiro rce 反序列 命令执行 一键工具](https://github.com/wyzxxz/shiro_rce)
 - [CVE-2019-1458-Win32k中的特权提升漏洞【shell可用-Windows提取】](https://github.com/unamer/CVE-2019-1458)
 - [CVE-2019-1253-Windows权限提升漏洞-AppXSvc任意文件安全描述符覆盖EoP的另一种poc](https://github.com/sgabe/CVE-2019-1253)|[CVE-2019-1253](https://github.com/padovah4ck/CVE-2019-1253)
+- [【免杀】Cobalt Strike插件，用于快速生成免杀的可执行文件](https://github.com/hack2fun/BypassAV)
 
 
 ## <span id="head7"> tools-小工具集合</span>
@@ -297,6 +299,9 @@
 - [PC客户端（C-S架构）渗透测试](https://github.com/theLSA/CS-checklist)
 - [wsltools-web扫描辅助python库](https://github.com/Symbo1/wsltools)
 - [struts2_check-用于识别目标网站是否采用Struts2框架开发的工具](https://github.com/coffeehb/struts2_check)
+- [sharpmimi.exe-免杀版mimikatz](./tools/sharpmimi.exe)
+- [thinkPHP代码执行批量检测工具](https://github.com/admintony/thinkPHPBatchPoc)
+- [pypykatz-python中使用Mimikatz](https://github.com/skelsec/pypykatz)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
@@ -346,6 +351,8 @@
 - [360webscan.php_bypass](./books/360webscan.php_bypass.pdf)
 - [think3.2.3_sql注入分析](./books/think3.2.3_sql注入分析.pdf)
 - [UEditor SSRF DNS Rebinding](./books/UEditor%20SSRF%20DNS%20Rebinding)
+- [PHP代码审计分段讲解](https://github.com/bowu678/php_bugs)
+- [京东SRC小课堂系列文章](https://github.com/xiangpasama/JDSRC-Small-Classroom)
 
 ## <span id="head9"> 说明</span>
 
